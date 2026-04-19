@@ -26,4 +26,4 @@ KNN with feature scaling (k=7) — 80.4% accuracy
 Python, Pandas, Scikit-learn, Matplotlib
 
 ## How to Run
-Open the notebook in Google Colab and run all cells.
+Open the notebook in Google Colab and run the cell.
